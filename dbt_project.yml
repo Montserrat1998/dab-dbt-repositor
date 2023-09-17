@@ -35,3 +35,9 @@ models:
   my_new_project:
     staging :
       schema : 'staging'
+      circle_parcel:
+      staging:
+        schema: 'staging'
+        cc_parcel_products:
+          staging:
+            schema: 'staging'
